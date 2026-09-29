@@ -1,6 +1,6 @@
 # Sport_file
 
-Tennis Analysis & I-Taiwan Sport — 基於電腦視覺的運動分析專案，包含**網球揮拍訓練**、**雙鏡頭網球軌跡／物理參數推估（可串 Unity）**，以及**羽球時速檢測**。
+Tennis Analysis & I-Taiwan Sport — 基於電腦視覺的運動分析專案，包含**網球揮拍訓練**、**雙鏡頭網球軌跡／物理參數推估（可串 Unity）**，以及**網球時速檢測**。
 
 ---
 
@@ -56,7 +56,7 @@ Tennis Analysis & I-Taiwan Sport — 基於電腦視覺的運動分析專案，�
 
 ---
 
-### 3. 羽球時速檢測
+### 3. 網球時速檢測
 
 目錄：`BadmintonSpeedTest/`
 
@@ -83,7 +83,7 @@ Sport_file/
 ├── DetectTennis-*.py             # Unity 串接／不同場地變體
 ├── ten_pose*.py / tennis_pose_recognize.py / openpose_python.py
 ├── LoadWebcam.py
-└── BadmintonSpeedTest/           # 羽球時速檢測
+└── BadmintonSpeedTest/           # 網球時速檢測
     ├── main_BufferCam.py
     ├── court_line_detector/
     └── mini_court/
